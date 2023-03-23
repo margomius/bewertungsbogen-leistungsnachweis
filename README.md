@@ -1,4 +1,4 @@
-# Excel Bewertungsbogen für Leisrungsnachweise
+# Excel-Bewertungsbogen für Leisrungsnachweise
 
 Ein Excel-Rechner um Leistungsnachweise aller Art (Klassenarbeiten, Klausuren, Lernkontrollen, Hausaufgaben etc.) zu bewerten.
 
