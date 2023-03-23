@@ -74,4 +74,4 @@ In der Tabelle darunter, wird eine Punkteverteilung generiert, die abhängig von
     * Fehlerindex wurde hinzugefügt
     * kleinere Updates und Fehlerbehebungen
 * 1.0
-    * Initial Release
+    * Initial Release 
