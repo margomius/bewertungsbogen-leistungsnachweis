@@ -4,6 +4,8 @@ Ein Excel-Rechner um Leistungsnachweise aller Art (Klassenarbeiten, Klausuren, L
 
 Download: [Bewertungsbogen_Leistungsnachweis.xlsx](https://github.com/margomius/bewertungsbogen-leistungsnachweis/raw/main/Bewertungsbogen_Leistungsnachweis.xlsx)
 
+Ausgefüllte Beispiel-Datei: [Bewertungsbogen_Leistungsnachweis_Beispiel.xlsx](https://github.com/margomius/bewertungsbogen-leistungsnachweis/raw/main/Bewertungsbogen_Leistungsnachweis_Beispiel.xlsx)
+
 ## Beschreibung
 
 Mit diesem Excel-Rechner werden sämtliche Berechnungen für die Bewertung eines Leistungsnachweises automatisch vorgenommen:
@@ -24,6 +26,7 @@ Mit diesem Excel-Rechner werden sämtliche Berechnungen für die Bewertung eines
 ### Vorbereitung
 
 1. Füge die Klassenliste in die Spalten D und E ein
+    * **Für hessische Lehrkräfte:** Kurslisten lassen sich wie folgt aus dem Schulportal kopieren & einfügen: Schulportal Hessen > "Lerngruppen" > [Ihre Lerngruppe] > "+ Mehr" > "CSV"
 2. Trage in Zeile 36 für jede Aufgabe ein, wie viele Bewertungseinheiten/Punkte es maximal zu erreichen gibt
     * Wenn Aufgaben nicht die benötigt werden, können die entsprechenden Zellen einfach freigelassen werden
     * Wenn mehr als zehn Aufgaben benötigt werden, kannst du dir über die Grupperung (+) über Spalte Z zehn weitere Spalten für Aufgaben einblenden lassen
@@ -51,6 +54,14 @@ In der Tabelle darunter, wird eine Punkteverteilung generiert, die abhängig von
 * Wenn ein Schüly bei einer Aufgabe die volle Punktzahl erreicht hat, dann wird die Punktzahl fett dargestellt.
 * Wenn für ein Schüly bei einer Aufgabe aus Versehen mehr Punkte eingetragen werden, als es maximal zu erreichen gibt, dann wird die Punktzahl rot dargestellt.
 * Auf einem weiteren Tabellenblatt gibt es eine einfache Tabelle aller Aufgaben inkl. der erreichbaren Bewertugnseinheiten/Punkte und dem Klassendurchschnitt als Zahl und in Prozent. Diese Übersicht kann z.B. inkl. dem Notenspiegel den Schülys zur Verfügung gestellt werden.
+
+## Screenshots
+
+### Liste mit Schülys und den jeweiligen Aufgaben
+![image](https://github.com/margomius/bewertungsbogen-leistungsnachweis/blob/main/Screenshots/Screenshot_1.PNG?raw=true)
+
+### Punkteverteilung, Notenspiegel etc.
+![image](https://github.com/margomius/bewertungsbogen-leistungsnachweis/blob/main/Screenshots/Screenshot_2.PNG?raw=true)
 
 ## Versionsverlauf
 
