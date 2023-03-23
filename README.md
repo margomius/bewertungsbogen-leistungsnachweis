@@ -2,7 +2,7 @@
 
 Ein Excel-Rechner um Leistungsnachweise aller Art (Klassenarbeiten, Klausuren, Lernkontrollen, Hausaufgaben etc.) zu bewerten.
 
-Download: [Bewertungsbogen_Leistungsnachweis.xlsx](https://github.com/margomius/bewertungsbogen-leistungsnachweis/raw/main/Bewertungsbogen_Leistungsnachweis.xlsx)
+**Download:** [Bewertungsbogen_Leistungsnachweis.xlsx](https://github.com/margomius/bewertungsbogen-leistungsnachweis/raw/main/Bewertungsbogen_Leistungsnachweis.xlsx)
 
 Ausgefüllte Beispiel-Datei: [Bewertungsbogen_Leistungsnachweis_Beispiel.xlsx](https://github.com/margomius/bewertungsbogen-leistungsnachweis/raw/main/Bewertungsbogen_Leistungsnachweis_Beispiel.xlsx)
 
